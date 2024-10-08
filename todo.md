@@ -24,7 +24,8 @@
 2. Markov process with gaussian transitions
 3. Likelihood vs log likelihood
 4. KL divergence 
-
+## SE
+1. Explore the Diffusers 
 ## LLMs
 1. 3BlueBrown 
    1. series about GPT
